@@ -1,4 +1,5 @@
 # datadog-blocked-template
 
 ## Rendering
-![Screenshot 2022-08-08 at 17 22 19](https://user-images.githubusercontent.com/19765952/183598982-182f68cc-942e-42f6-ac93-530a5eafeb49.png)
+![Screenshot 2022-08-09 at 10 47 08](https://user-images.githubusercontent.com/19765952/183609132-a0cfb9ee-3e8e-4a6a-b652-50ae15ef14aa.png)
+
